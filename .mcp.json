@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "linkjolt": {
+      "url": "https://www.linkjolt.io/api/mcp"
+    }
+  }
+}

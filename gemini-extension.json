@@ -1,0 +1,10 @@
+{
+  "name": "linkjolt",
+  "version": "1.0.0",
+  "description": "Set up and run your LinkJolt affiliate program: plan commissions, create campaigns, add tracking, invite affiliates and approve sales.",
+  "mcpServers": {
+    "linkjolt": {
+      "httpUrl": "https://www.linkjolt.io/api/mcp"
+    }
+  }
+}

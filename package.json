@@ -1,0 +1,48 @@
+{
+  "name": "@linkjolt/mcp-server",
+  "mcpName": "io.linkjolt/linkjolt",
+  "version": "0.3.1",
+  "description": "LinkJolt MCP Server: a stdio relay to LinkJolt's hosted MCP server, for AI clients that only run local commands",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "bin": {
+    "linkjolt-mcp": "dist/index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsx src/index.ts"
+  },
+  "keywords": [
+    "affiliate",
+    "affiliate-marketing",
+    "ai",
+    "chatgpt",
+    "claude",
+    "codex",
+    "cursor",
+    "linkjolt",
+    "mcp",
+    "model-context-protocol"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0",
+    "tsx": "^4.0.0"
+  },
+  "homepage": "https://www.linkjolt.io/developers/mcp",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Efesop/linkjolt-mcp-server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Efesop/linkjolt-mcp-server/issues"
+  },
+  "files": [
+    "dist",
+    "README.md"
+  ],
+  "engines": {
+    "node": ">=18"
+  }
+}
