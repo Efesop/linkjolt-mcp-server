@@ -1,0 +1,15 @@
+{
+  "name": "linkjolt",
+  "displayName": "LinkJolt",
+  "version": "1.0.0",
+  "description": "Set up and run an affiliate program for your SaaS from Cursor: plan commissions, create campaigns, add and check tracking, invite affiliates and approve sales.",
+  "author": {
+    "name": "LinkJolt",
+    "email": "ollie@linkjolt.io"
+  },
+  "homepage": "https://www.linkjolt.io/developers/mcp",
+  "repository": "https://github.com/Efesop/linkjolt-mcp-server",
+  "license": "MIT",
+  "keywords": ["affiliate", "affiliate-marketing", "affiliate-program", "saas", "stripe", "mcp"],
+  "logo": "assets/logo.png"
+}
